@@ -1,5 +1,6 @@
 // Generates a random number for game.
 // not 
+//edit
 var randomNumber = Math.floor(Math.random() * 100) + 1;
 var count = 1;
 var lastResult = document.querySelector('.lastResult');
